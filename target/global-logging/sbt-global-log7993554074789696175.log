@@ -1,7 +1,0 @@
-[debug] > Exec({file:/C:/Users/Sergei/Documents/IdeaProjects/scala-first-project/}scala-first-project/update, None, None)
-[debug] Evaluating tasks: update
-[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
-[success] Total time: 3 s, completed 22 сент. 2023 г., 13:01:50
-[debug] > Exec(idea-shell, None, None)
-[debug] > Exec(, None, None)
-[debug] > Exec(idea-shell, None, None)
