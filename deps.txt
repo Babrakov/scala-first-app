@@ -1,0 +1,33 @@
+[info] welcome to sbt 1.9.6 (Oracle Corporation Java 11.0.12)
+[info] loading global plugins from C:\Users\Sergei\.sbt\1.0\plugins
+[info] loading settings for project scala-first-project-build from dependencies.sbt,plugins.sbt ...
+[info] loading project definition from C:\Users\Sergei\Documents\IdeaProjects\scala-first-project\project
+[info] loading settings for project scala-first-project from build.sbt ...
+[info] set current project to hello-world (in build file:/C:/Users/Sergei/Documents/IdeaProjects/scala-first-project/)
+[info] ch.epfl.scala:hello-world_2.13:1.0 [S]
+[info]   +-com.typesafe.play:play-json_2.13:2.9.2 [S]
+[info]     +-com.fasterxml.jackson.core:jackson-annotations:2.10.5
+[info]     +-com.fasterxml.jackson.core:jackson-core:2.10.5
+[info]     +-com.fasterxml.jackson.core:jackson-databind:2.10.5.1
+[info]     | +-com.fasterxml.jackson.core:jackson-annotations:2.10.5
+[info]     | +-com.fasterxml.jackson.core:jackson-core:2.10.5
+[info]     | 
+[info]     +-com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.10.5
+[info]     | +-com.fasterxml.jackson.core:jackson-core:2.10.5
+[info]     | +-com.fasterxml.jackson.core:jackson-databind:2.10.5 (evicted by: 2.10.5..
+[info]     | +-com.fasterxml.jackson.core:jackson-databind:2.10.5.1
+[info]     |   +-com.fasterxml.jackson.core:jackson-annotations:2.10.5
+[info]     |   +-com.fasterxml.jackson.core:jackson-core:2.10.5
+[info]     |   
+[info]     +-com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.10.5
+[info]     | +-com.fasterxml.jackson.core:jackson-annotations:2.10.5
+[info]     | +-com.fasterxml.jackson.core:jackson-core:2.10.5
+[info]     | +-com.fasterxml.jackson.core:jackson-databind:2.10.5 (evicted by: 2.10.5..
+[info]     | +-com.fasterxml.jackson.core:jackson-databind:2.10.5.1
+[info]     |   +-com.fasterxml.jackson.core:jackson-annotations:2.10.5
+[info]     |   +-com.fasterxml.jackson.core:jackson-core:2.10.5
+[info]     |   
+[info]     +-com.typesafe.play:play-functional_2.13:2.9.2 [S]
+[info]     +-org.scala-lang:scala-reflect:2.13.8 [S]
+[info]     
+[success] Total time: 0 s, completed 22 ╤Б╨╡╨╜╤В. 2023 ╨│., 13:37:46

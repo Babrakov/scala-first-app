@@ -1,0 +1,9 @@
+[debug] > Exec({file:/C:/Users/Sergei/Documents/IdeaProjects/scala-first-project/}scala-first-project/dependencyBrowseGraph, None, None)
+[debug] Evaluating tasks: Compile / dependencyBrowseGraph
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] HTML graph written to file:/C:/Users/Sergei/Documents/IdeaProjects/scala-first-project/target/graph.html
+[info] Opening in browser...
+[success] Total time: 0 s, completed 22 сент. 2023 г., 13:48:13
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

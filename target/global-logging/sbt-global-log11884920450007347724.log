@@ -1,0 +1,11 @@
+[debug] > Exec({file:/C:/Users/Sergei/Documents/IdeaProjects/scala-first-project/}scala-first-project/assembly, None, None)
+[debug] Evaluating tasks: assembly
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] 2 file(s) merged using strategy 'Rename' (Run the task at debug level to see the details)
+[info] 1 file(s) merged using strategy 'Discard' (Run the task at debug level to see the details)
+[info] Built: C:\Users\Sergei\Documents\IdeaProjects\scala-first-project\target\scala-2.13\hello-world-assembly-1.0.jar
+[info] Jar hash: 1342316aed9c73ec8ee4b28351807a563d45dbf4
+[success] Total time: 3 s, completed 22 сент. 2023 г., 13:15:23
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

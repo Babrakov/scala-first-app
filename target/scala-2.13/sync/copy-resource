@@ -1,0 +1,1 @@
+[[{"${BASE}/src/main/resources/test.sql":["${BASE}/target/scala-2.13/classes/test.sql"]},{"${BASE}/target/scala-2.13/classes/test.sql":["${BASE}/src/main/resources/test.sql"]}],{"${BASE}/src/main/resources/test.sql":{"file":"file:///C:/Users/Sergei/Documents/IdeaProjects/scala-first-project/src/main/resources/test.sql","lastModified":1695378966750}}]

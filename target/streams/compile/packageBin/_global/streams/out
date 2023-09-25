@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\Sergei\Documents\IdeaProjects\scala-first-project\target\scala-2.13\hello-world_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloWorld$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Sergei\Documents\IdeaProjects\scala-first-project\target\scala-2.13\classes\HelloWorld$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloWorld$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Sergei\Documents\IdeaProjects\scala-first-project\target\scala-2.13\classes\HelloWorld$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloWorld.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Sergei\Documents\IdeaProjects\scala-first-project\target\scala-2.13\classes\HelloWorld.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Sergei\Documents\IdeaProjects\scala-first-project\target\scala-2.13\classes\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Sergei\Documents\IdeaProjects\scala-first-project\target\scala-2.13\classes\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	test.sql[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Sergei\Documents\IdeaProjects\scala-first-project\target\scala-2.13\classes\test.sql[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
