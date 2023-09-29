@@ -44,7 +44,15 @@ libraryDependencies ++= Seq{
 //  "com.typesafe.play" %% "play-json" % "2.9.2" exclude("com.fasterxml.jackson.core","jackson-core")
 }
 
+libraryDependencies ++= Seq(
+  // Use the %%% operator instead of %% for Scala.js and Scala Native
+  "com.github.plokhotnyuk.jsoniter-scala" %% "jsoniter-scala-core"   % "2.23.5",
+  // Use the "provided" scope instead when the "compile-internal" scope is not supported
+  "com.github.plokhotnyuk.jsoniter-scala" %% "jsoniter-scala-macros" % "2.23.5" % "provided"
+)
+
 dependencyOverrides += "com.fasterxml.jackson.core"% "jackson-core" % "2.15.2"
+
 
 // Here, `libraryDependencies` is a set of dependencies, and by using `+=`,
 // we're adding the scala-parser-combinators dependency to the set of dependencies
